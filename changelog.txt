@@ -1,0 +1,5 @@
+TuioPad for iOS Changelog
+
+v1.0 26.12.2010
+---------------
+* initial release based on OpenFrameworks 0.62 and TUIO 1.1
