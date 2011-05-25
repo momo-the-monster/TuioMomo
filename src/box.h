@@ -46,7 +46,6 @@ public:
 	
 	rgbColor colors[5];
 	
-	// parameters to play with
 	int growRate;
 	int shrinkRate;
 	int outlineFadeRate;
@@ -63,12 +62,12 @@ public:
 		hasPoint = false;
 		pointID = NULL;
 		mode = MODE_STATIC;
-		outlineAlpha = 0;		// start invisible
+		outlineAlpha = 0;		// start invisible OR
 	//	outlineAlpha = 255;		// start visible
 		
 		// parameters to play with
 		growRate = 10;
-		shrinkRate = 2;
+		shrinkRate = 1;
 		outlineFadeRate = 10;
 		fadeWaitTime = 50;
 		

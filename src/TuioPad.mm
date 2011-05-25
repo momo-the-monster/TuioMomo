@@ -75,6 +75,7 @@ void TuioPad::update() {
 	
 	// initialize Finger Gui
 	if (startedGui == false) {
+		cout << "chosenGui is " << [viewController chosenGui];
 		gui = guiStyles[[viewController chosenGui]];
 		gui->setup();
 		startedGui = true;
