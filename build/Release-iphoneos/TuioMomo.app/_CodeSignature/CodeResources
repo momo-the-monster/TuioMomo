@@ -4,9 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Default-LandscapeLeft.png</key>
+		<data>
+		0W03qy0ejAdXflXekWGnBNu1tH4=
+		</data>
+		<key>Default-LandscapeRight.png</key>
+		<data>
+		Qlbm2v3h/483DCANLTTPcJxu0Xc=
+		</data>
 		<key>Default-Portrait.png</key>
 		<data>
 		6uUS9JbEzntRh524cfFKZHLCIYQ=
+		</data>
+		<key>Default-PortraitUpsideDown.png</key>
+		<data>
+		GMouft4EQOy2XxEyVB+DZEwZs14=
 		</data>
 		<key>Default.png</key>
 		<data>
@@ -50,15 +62,15 @@
 		</data>
 		<key>TuioPad.nib</key>
 		<data>
-		7eTGgmNlSEUr4GacIOvtweDiAg4=
+		SAN7y3onEqzUo2M+ybizbYVee3A=
 		</data>
 		<key>TuioPhone.nib</key>
 		<data>
-		2SwW604KYHSqf47Z5h85LBHGvRk=
+		D4Yl8LnAAZorLmpbVSRXXYEG4LU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		j2YJkEFfkfeOOrrhlf86vKVvaJI=
+		Ncn+AK5/53BmJfuPeDG1CCNMKI8=
 		</data>
 	</dict>
 	<key>rules</key>

@@ -3,12 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>TJVXYK4G8J.com.mmmlabs.*</string>
+	<string>9GE7K8M4EL.*</string>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>ZRGSQCZ694.*</string>
+	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>ZRGSQCZ694.*</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>TJVXYK4G8J.*</string>
+		<string>9GE7K8M4EL.*</string>
 	</array>
 </dict>
 </plist>
